@@ -30,10 +30,10 @@ I am a passionate computer science student building scalable web applications an
 
 ## 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahim25web&show_icons=true&theme=radial" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahim25web&layout=compact&theme=radial" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahim25web&show_icons=true&theme=dark" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=mahim25web&layout=compact&theme=dark" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahim25web&theme=radial" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahim25web&theme=dark" alt="Streak" />
 </p>
