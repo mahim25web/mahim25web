@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Header Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=220&section=header&text=Md.%20Mahim%20Ahmmad%20%E2%9A%A1%EF%B8%8F&fontSize=42&subtext=Full-Stack%20Web%20Developer%20%7C%20Building%20Scalable%20Systems&subfontSize=18&fontAlignY=40&subfontAlignY=65&desc=Console.log(%22Welcome%20to%20my%20world!%22)&descAlignY=82&descFontSize=14)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38)
 
 # Hi there, I'm Md. Mahim Ahmmad 👋
 ### Full-Stack Web Developer | CSE Undergraduate
@@ -30,10 +30,10 @@ I am a passionate computer science student building scalable web applications an
 
 ## 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahim25web&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahim25web&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahim25web&show_icons=true&theme=radial" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahim25web&layout=compact&theme=radial" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahim25web&theme=dark" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahim25web&theme=radial" alt="Streak" />
 </p>
